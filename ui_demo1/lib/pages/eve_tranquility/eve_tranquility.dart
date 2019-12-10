@@ -39,4 +39,3 @@ class _eveTranquilityPageState extends State<eveTranquilityPage> {
     );
   }
 }
-
