@@ -40,12 +40,12 @@ class _eveTranquilityPageState extends State<eveTranquilityPage> {
   }
 }
 
-class eeeeeeeeeDemo extends StatefulWidget {
+class yigahda extends StatefulWidget {
   @override
-  _eeeeeeeeeDemoState createState() => _eeeeeeeeeDemoState();
+  _yigahdaState createState() => _yigahdaState();
 }
 
-class _eeeeeeeeeDemoState extends State<eeeeeeeeeDemo> {
+class _yigahdaState extends State<yigahda> {
   @override
   Widget build(BuildContext context) {
     return Container(
